@@ -8,7 +8,7 @@
 <div class="content" id="intro">
   <div class="row text-center wp2">
     <h1>News</h1>
-    <p class="headline">Some of our most recent news articles</p>
+    <p class="headline">Recent news articles</p>
   </div>
 </div>
 <div class="news">
@@ -24,7 +24,7 @@
               </section>
             </a>
 
-         </div> 
+         </div>
 
         <?php endwhile; else: ?>
 

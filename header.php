@@ -33,12 +33,12 @@
 <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
   <a href="/">Home</a>
   <a href="https://tasks.mapforenvironment.org">Tasks</a>
-  <a href="/about">About </a>
+  <a href="/news">News</a>
 </nav>
 
     <div class="navbar">
       <div class="menu">
-          <div class="logo"><a href="/"><img height=50 width=52 src="<?php bloginfo('template_directory'); ?>/img/mapforenvironment.png"><span class="logo-text">MapforEnvironment</span></a></div>
+          <div class="logo"><a href="/"><img height=50 width=52 src="<?php bloginfo('template_directory'); ?>/img/mapforenvironment.png"><span class="logo-text">Map for Environment</span></a></div>
 
           <div id="showRight"><span id="nav-toggle" class="nav_slide_button" href="#"><span><p>MENU</p></span></span></div>
 

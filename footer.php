@@ -22,7 +22,6 @@
         <p><a href="/">Home</a></p>
         <p><a href="https://tasks.mapforenvironment.org">Tasks</a></p>
         <p><a href="/news">News</a></p>
-        <p><a href="/about">About</a></p>
     </div>
 
     <div class="large-4 columns">
@@ -33,7 +32,7 @@
   <div class="row divider"></div>
   <div class="row">
     <div class="large-4 columns">
-      <p>© Copyright 2016</p>
+      <p>© MapforEnvironment 2016</p>
     </div>
     <div class="large-6 columns stayc">
       <p><a href="#top">Back to top <i class="fa fa-angle-up"></i></a><p>

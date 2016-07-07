@@ -2,68 +2,64 @@
 
 <?php get_header(); ?>
 
-<a href="#whatismoabi" class="scroll fa fa-angle-down arrow" id="whatismoabi"></a>
+<a href="#contribute" class="scroll fa fa-angle-down arrow" id="contribute"></a>
 <div class="header" >
   <div class="row" >
     <div class="large-12 columns text-center">
       <h1 class="animated fadeInDown" id="intro"><?php the_field('main_title'); ?></h1>
       <h2 class="animated fadeInDown"><?php the_field('main_subline'); ?></h2>
-      <a href="/about"><button class="animated fadeInDown"> Learn More</button></a>
+      <a href="#contribute"><button class="animated fadeInDown"> Learn More</button></a>
     </div>
   </div>
+  <div class="header-source">Source: Mapbox Satellite</div>
 </div>
 
 <div class="dark" >
   <div class="row wp1">
     <h1><?php the_field('second_main'); ?></h1>
     <p class="headline"><?php the_field('second_p'); ?></p>
-    <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown"> Start Mapping</button></a>
+    <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Start Mapping</button></a>
     </div>
   </div>
-
 </div>
-
 
 <div class="content">
   <div class="row text-center wp2">
     <h1>Projects</h1>
-    <p class="headline">Map for Environment...<a href="mailto:info@mapforenvironment.org">get in touch!</a> </p>
   </div>
 </div>
 
 <div class="work">
 
   <figure class="large-4 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/moabi.jpg" >
-    <a href="http://rdc.moabi.org/en/" target="_blank"><figcaption>
-      <h3>A collaborative mapping initiative to monitor natural resources in DRC and strengthen REDD+ safeguards</h3>
-    </figcaption></a>
+    <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
+    <figcaption>
+      <h2>Industrial Agriculture</h2>
+      <h3>Industrial agricultural such as palm oil is a significant driver of deforestation. Mapping recent activity in Malaysia and Indonsia will help us understand similar patterns emerging in Africa and South America.</h3>
+    </figcaption>
   </figure>
   <figure class="large-4 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/logging.jpg" >
-    <a href="http://loggingroads.org/" target="_blank"><figcaption>
-      <h3>A joint initiative with the World Resource Institute to map all the logging roads in the Congo Basin using crowdsourcing</h3>
-    </figcaption></a>
+    <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
+
+    <figcaption>
+      <h2>Logging Roads</h2>
+      <h3>Logging roads are both an indicator of past forest degradation and future risk of deforestation.</h3>
+    </figcaption>
   </figure>
   <figure class="large-4 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/maphubs.jpg" >
-    <a href="https://maphubs.com" target="_blank"><figcaption>
-      <h3>A home for the world's open map data and an easy tool for making and sharing maps</h3>
-    </figcaption></a>
+    <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
+    <figcaption>
+      <h2>Hydropower in Asia</h2>
+      <h3>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</h3>
+    </figcaption>
   </figure>
 
-</div>
-
-<div class="content">
-  <div class="row text-center wp2">
-  <a href="/portfolio"><button>View More</button></a>
-  </div>
 </div>
 
 <div class="content">
   <div class="row text-center wp2">
     <h1>News</h1>
-    <p class="headline">Latest news about Map for Environment</p>
+    <p class="headline">Latest News from Map for Environment</p>
   </div>
 </div>
 <div class="news">
