@@ -6,10 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="description" content="Map for Environment">
-  <meta property="og:image" content="https://farm4.staticflickr.com/3687/12483987584_3b2a7cf09a_c.jpg">
-  <meta property="og:image:width" content="500">
-  <meta property="og:image:height" content="250">
-  <meta property="og:image:type" content="image/png">
 
   <title><?php bloginfo( 'name' ); ?><?php wp_title(); ?></title>
 
@@ -20,7 +16,7 @@
 
   <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico" />
 
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="//use.typekit.net/cvq4evn.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
 
