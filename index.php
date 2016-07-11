@@ -30,20 +30,19 @@
 </div>
 
 <div class="work">
-
-  <figure class="large-4 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
-    <figcaption>
-      <h2>Industrial Agriculture</h2>
-      <h3>Industrial agricultural such as palm oil is a significant driver of deforestation. Mapping recent activity in Malaysia and Indonsia will help us understand similar patterns emerging in Africa and South America.</h3>
-    </figcaption>
-  </figure>
   <figure class="large-4 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
 
     <figcaption>
       <h2>Logging Roads</h2>
       <h3>Logging roads are both an indicator of past forest degradation and future risk of deforestation.</h3>
+    </figcaption>
+  </figure>
+  <figure class="large-4 columns">
+    <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
+    <figcaption>
+      <h2>Industrial Agriculture</h2>
+      <h3>Industrial agricultural such as palm oil is a significant driver of deforestation. Mapping recent activity in Malaysia and Indonsia will help us understand similar patterns emerging in Africa and South America.</h3>
     </figcaption>
   </figure>
   <figure class="large-4 columns">

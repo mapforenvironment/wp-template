@@ -28,6 +28,7 @@
 
 <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
   <a href="/">Home</a>
+  <a href="/about">About</a>
   <a href="https://tasks.mapforenvironment.org">Tasks</a>
   <a href="/news">News</a>
 </nav>
