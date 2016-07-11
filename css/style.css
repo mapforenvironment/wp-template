@@ -801,7 +801,7 @@ figcaption {
   position: absolute;
   background: rgba(53,58,60,0.95);
   color: white;
-  padding: 25% 70px;
+  padding-top: 25%;
   text-align: center;
   width: 100%;
   color: #fff!important;
@@ -828,6 +828,18 @@ figcaption h3 {
   position: absolute;
   color: #fff;
   font-size: 1.5em!important;
+  padding-bottom: 30px;
+  top: 30%;
+  left: 0;
+  right: 0;
+  font-weight: 400!important;
+  padding: 0px 30px;
+}
+
+figcaption p {
+  position: absolute;
+  color: #fff;
+  font-size: 1.0em!important;
   padding-bottom: 30px;
   top: 30%;
   left: 0;
@@ -946,6 +958,8 @@ textarea {
 }
 input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]:focus,select:focus,textarea:focus { -webkit-box-shadow: 0 0 0 4px #57c6bd;-moz-box-shadow: 0 0 0 4px #57c6bd;box-shadow: 0 0 0 4px #57c6bd;;outline: 0;transition: all 0.1s ease-in-out;}
 
+
+
 @media screen and (max-width:1080px) {
 
 
@@ -1048,6 +1062,10 @@ input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]
     font-size: 0.9em!important;
   }
 
+  figcaption p {
+  font-size: 0.8em!important;
+}
+
   .banner h2 {
     font-size: 1.3em!important;
   }
@@ -1056,6 +1074,12 @@ input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]
     font-size: 1em!important;
   }
 
+}
+
+@media screen and (max-width:1025px) {
+  figcaption p {
+    font-size: 1.8em !important;
+  }
 }
 
 @media screen and (max-width:640px) {
@@ -1107,11 +1131,19 @@ input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]
    font-size: 1.4em!important;
  }
 
+
+ figcaption p {
+   font-size: 1.2em !important;
+ }
+
 }
 
 @media screen and (max-width:480px) {
   .page h2, h1, h2, h3, .content h3 {
     font-size: 1em!important;
+  }
+  figcaption p {
+    font-size: 1.0em !important;
   }
 }
 

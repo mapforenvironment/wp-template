@@ -25,7 +25,7 @@
 
 <div class="content">
   <div class="row text-center wp2">
-    <h1>Projects</h1>
+    <h1>Initiatives</h1>
   </div>
 </div>
 
@@ -35,21 +35,30 @@
 
     <figcaption>
       <h2>Logging Roads</h2>
-      <h3>Logging roads are both an indicator of past forest degradation and future risk of deforestation.</h3>
+      <p>In partnership with Global Forest Watch, The award winning Logging Roads initiative
+      (<a href="http://loggingroads.org">loggingroads.org</a>) aims to build a complete and dynamic map of all the world’s logging roads,
+      particularly focused in the tropics. With the support of volunteers, Logging Roads has already mapped
+      more than 30,000 roads with over 12,000 user edits in the Congo Basin. This data supports forest
+      monitors identify violations by logging companies, encroachment into indigenous people’s territories,
+      and risks to wildlife conservation.</a></p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
     <figcaption>
       <h2>Industrial Agriculture</h2>
-      <h3>Industrial agricultural such as palm oil is a significant driver of deforestation. Mapping recent activity in Malaysia and Indonsia will help us understand similar patterns emerging in Africa and South America.</h3>
+      <p>Map for Environment aims to map all industrial agriculture operating in or near the tropics with a
+        specific focus on oil palm in Indonesia and the Congo Basin. Oil palm plantations, in particular,have
+        decimated rainforest in Sumatra and Borneo, creating conflicts with indigenous communities and
+        clearing habitat for the endanger orangutan and tiger populations. But despite their enormous impact,
+        very few plantations and their associated infrastructure such as mills have been mapped.</p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
     <figcaption>
       <h2>Hydropower in Asia</h2>
-      <h3>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</h3>
+      <p>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</p>
     </figcaption>
   </figure>
 

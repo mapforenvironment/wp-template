@@ -86,10 +86,7 @@ agencies on the ground hold operators to account for illegal and unsustainable p
       particularly focused in the tropics. With the support of volunteers, Logging Roads has already mapped
       more than 30,000 roads with over 12,000 user edits in the Congo Basin. This data supports forest
       monitors identify violations by logging companies, encroachment into indigenous people’s territories,
-      and risks to wildlife conservation. Logging roads is being expanded with new partners Vizzuality, a
-      Madrid and Cambridge-based science and technology firm, and the European Commission’s Joint
-      Research Centre to update the logging roads technology and expand the program’s to other forest
-      regions. Read more about Logging Roads <a href="http://loggingroads.org">here</a></p>
+      and risks to wildlife conservation.</a></p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
@@ -100,11 +97,7 @@ agencies on the ground hold operators to account for illegal and unsustainable p
         specific focus on oil palm in Indonesia and the Congo Basin. Oil palm plantations, in particular,have
         decimated rainforest in Sumatra and Borneo, creating conflicts with indigenous communities and
         clearing habitat for the endanger orangutan and tiger populations. But despite their enormous impact,
-        very few plantations and their associated infrastructure such as mills have been mapped. By
-        combining agriculture plantation maps, satellite imagery, and forest alerts, Map for Environment aims
-        to work with local civil society groups to map the plantations and their infrastructure. This will give
-        regulators and forest monitors detailed data on the location, size, and impact of plantations operating
-        in these critical ecosystems.</p>
+        very few plantations and their associated infrastructure such as mills have been mapped.</p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
