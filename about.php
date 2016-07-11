@@ -17,17 +17,16 @@ great rivers – the Mekong, Brahmaputra, the Yangtze, etc – meander from the 
 Himalayas before flowing down to the mouths of Vietnam Delta and the Bangladesh, providing water,
 food, and energy to hundreds of millions of people.</p>
 <p>Zoom in further, the threats to these great natural phenomena become apparent. Forests and rivers
-face both seen and unseen dangers. Forests are strafed by logging roads, which cutt deep in intact
+face both seen and unseen dangers. Forests are strafed by logging roads, which cut deep in intact
 forest areas. The loggers extract valuable timber, feeding ever growing demand for tropical
 hardwoods. They provide jobs for a few but when poorly managed, leave the forests vulnerable to
 hunting and conversion to agriculture. Hot on their heals, comes industrial agriculture, converting the
 degraded land into oil palm, cacoa, and eucalyptus plantations. Asia rivers are increasingly being
-dammed to provide energy for rapidly cities across the region as well as diverting water to arid regions.
+dammed to provide energy for rapidly growing cities as well as diverting water to arid regions.
 Many of these activities are visible from satellites but unmapped, and their scale and impacts
 undocumented. This lack of transparency creates a culture of impunity that allows bad actors to go
 unpunished and good actors to go unrecognized. Transparency creates a level playing field.</p>
   </div>
-
 </div>
 
 
@@ -57,10 +56,10 @@ slowly unraveling in the world’s critical ecosystems.</p>
     <div class="large-8 columns" style="padding: 60px">
       <h2>How it works</h2>
       <p></p>
-      <p>Map for Environment uses OpenStreepMap tools - combined with satellite imagery and location data of
-known logging, industrial agriculture, dam locations – to create detailed maps of infrastructure, size, as
+      <p>Map for Environment uses OpenStreetMap tools - combined with satellite imagery and location data of
+known logging, industrial agriculture, and dam locations – to create detailed maps of infrastructure, size, as
 well as communities impacted. The information is mapped by volunteers who we teach how to use
-OpenStreetMap to make maps of these activities. Mapped data is shared on OpenStreetMap and also
+OpenStreetMap tools. Mapped data is shared on OpenStreetMap and also
 available on MapHubs – an open data repository where users can combine with other data to make
 and publish interactive maps. The Map for Environment team uses both open data and expert advice
 to direct efforts to dams, logging roads, and industrial agriculture plantations operating in high risk

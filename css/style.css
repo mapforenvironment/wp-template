@@ -839,7 +839,7 @@ figcaption h3 {
 figcaption p {
   position: absolute;
   color: #fff;
-  font-size: 1.0em!important;
+  font-size: 1.2em!important;
   padding-bottom: 30px;
   top: 30%;
   left: 0;
@@ -958,6 +958,13 @@ textarea {
 }
 input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]:focus,select:focus,textarea:focus { -webkit-box-shadow: 0 0 0 4px #57c6bd;-moz-box-shadow: 0 0 0 4px #57c6bd;box-shadow: 0 0 0 4px #57c6bd;;outline: 0;transition: all 0.1s ease-in-out;}
 
+
+@media screen and (max-width:1300px) {
+  figcaption p {
+  font-size: 1.0em!important;
+}
+
+}
 
 
 @media screen and (max-width:1080px) {
