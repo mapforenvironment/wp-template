@@ -8,7 +8,7 @@
     <div class="large-12 columns text-center">
       <h1 class="animated fadeInDown" id="intro"><?php the_field('main_title'); ?></h1>
       <h2 class="animated fadeInDown"><?php the_field('main_subline'); ?></h2>
-      <a href="#contribute"><button class="animated fadeInDown"> Learn More</button></a>
+      <a href="/about"><button class="animated fadeInDown"> Learn More</button></a>
     </div>
   </div>
   <div class="header-source">Source: Mapbox Satellite</div>
