@@ -46,14 +46,14 @@ responding to disasters such as the Nepal earthquake and the tsunami in the Phil
 Environment follows this model to map the unmapped but we focus on the humanitarian disaster
 slowly unraveling in the world’s critical ecosystems.</p>
     </div>
-    <div class="large-4 columns" style="background: url('<?php the_field('a1_image'); ?>');height: 500px;background-size:cover"><img src=""></div>
+    <div class="large-4 columns" style="background: url('<?php bloginfo('template_directory'); ?>/img/deforestation.jpg');height: 500px;background-size:cover"><img src=""></div>
   </div>
 </div>
 
 <div class="content" style="padding: 0px">
   <div class="wp2">
 
-    <div class="large-4 columns" style="background: url('<?php the_field('a2_image'); ?>');height: 500px;background-size:cover"><img src=""></div>
+    <div class="large-4 columns" style="background: url('<?php bloginfo('template_directory'); ?>/img/mapping_palmmill.png');height: 500px;background-size:cover"><img src=""></div>
     <div class="large-8 columns" style="padding: 60px">
       <h2>How it works</h2>
       <p></p>
@@ -81,21 +81,37 @@ agencies on the ground hold operators to account for illegal and unsustainable p
 
     <figcaption>
       <h2>Logging Roads</h2>
-      <h3>Logging roads are both an indicator of past forest degradation and future risk of deforestation.</h3>
+      <p>In partnership with Global Forest Watch, The award winning Logging Roads initiative
+      (<a href="http://loggingroads.org">loggingroads.org</a>) aims to build a complete and dynamic map of all the world’s logging roads,
+      particularly focused in the tropics. With the support of volunteers, Logging Roads has already mapped
+      more than 30,000 roads with over 12,000 user edits in the Congo Basin. This data supports forest
+      monitors identify violations by logging companies, encroachment into indigenous people’s territories,
+      and risks to wildlife conservation. Logging roads is being expanded with new partners Vizzuality, a
+      Madrid and Cambridge-based science and technology firm, and the European Commission’s Joint
+      Research Centre to update the logging roads technology and expand the program’s to other forest
+      regions. Read more about Logging Roads <a href="http://loggingroads.org">here</a></p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
     <figcaption>
       <h2>Industrial Agriculture</h2>
-      <h3>Industrial agricultural such as palm oil is a significant driver of deforestation. Mapping recent activity in Malaysia and Indonsia will help us understand similar patterns emerging in Africa and South America.</h3>
+      <p>Map for Environment aims to map all industrial agriculture operating in or near the tropics with a
+        specific focus on oil palm in Indonesia and the Congo Basin. Oil palm plantations, in particular,have
+        decimated rainforest in Sumatra and Borneo, creating conflicts with indigenous communities and
+        clearing habitat for the endanger orangutan and tiger populations. But despite their enormous impact,
+        very few plantations and their associated infrastructure such as mills have been mapped. By
+        combining agriculture plantation maps, satellite imagery, and forest alerts, Map for Environment aims
+        to work with local civil society groups to map the plantations and their infrastructure. This will give
+        regulators and forest monitors detailed data on the location, size, and impact of plantations operating
+        in these critical ecosystems.</p>
     </figcaption>
   </figure>
   <figure class="large-4 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
     <figcaption>
       <h2>Hydropower in Asia</h2>
-      <h3>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</h3>
+      <p>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</p>
     </figcaption>
   </figure>
 </div>
