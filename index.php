@@ -14,18 +14,13 @@
   <div class="header-source">Source: Mapbox Satellite</div>
 </div>
 
-<div class="dark" >
-  <div class="row wp1">
-    <h1><?php the_field('second_main'); ?></h1>
-    <p class="headline"><?php the_field('second_p'); ?></p>
-    <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Start Mapping</button></a>
-    </div>
-  </div>
-</div>
+
 
 <div class="content">
   <div class="row text-center wp2">
     <h1>Initiatives</h1>
+    <p class="headline">Our goal is to make the invisible visible. We are quite literally aiming to put
+logging roads, industrial agriculture, and dams on the map.</p>
   </div>
 </div>
 
@@ -62,6 +57,23 @@
     </figcaption>
   </figure>
 
+</div>
+
+<div class="dark" >
+  <div class="row wp1">
+    <h1><?php the_field('second_main'); ?></h1>
+    <p class="headline"><?php the_field('second_p'); ?></p>
+    <div class="large-4 columns">
+      <a href="https://loggingroads.org"><button class="animated fadeInDown">Map Logging Roads</button></a>
+    </div>
+    <div class="large-4 columns">
+      <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Industrial Agriculture</button></a>
+    </div>
+    <div class="large-4 columns">
+      <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Hydropower</button></a>
+    </div>
+    </div>
+  </div>
 </div>
 
 <div class="content">
