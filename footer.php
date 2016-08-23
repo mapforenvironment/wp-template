@@ -2,15 +2,15 @@
 
 <div class="grey content partner">
   <div class="row">
-  <div class="large-6 columns text-center ">
+  <div class="large-12 columns text-center ">
     <h3>Partners </h3>
     <a href="http://moabi.org" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/moabi-logo.png"></a>
-    <a href="httpsMapHubsLogo_A_HiRes.png://maphubs.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/MapHubsLogo_A_HiRes.png"></a>
-  </div>
-  <div class="large-6 columns text-center ">
-    <h3>Donors</h3>
+    <a href="https://maphubs.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/MapHubsLogo_A_HiRes.png"></a>
     <a href="http://www.globalforestwatch.org/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/global.png"></a>
+    <a href="http://mapbox.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/mapbox-satellite-logo.png"></a>
+
   </div>
+
 
   </div>
 </div>
@@ -27,7 +27,7 @@
 
     <div class="large-4 columns">
      <h3>Connect With Us</h3>
-     <p><a href="https://twitter.com/mapforenvironment" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://github.com/mapforenvironment" target="_blank"><i class="fa fa-github"></i></a> <a href="mailto:info@mapforenvironment.org" target="_blank"><i class="fa fa-envelope-o"></i></a> </p>
+     <p><a href="https://twitter.com/map4env" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://github.com/mapforenvironment" target="_blank"><i class="fa fa-github"></i></a> <a href="mailto:info@mapforenvironment.org" target="_blank"><i class="fa fa-envelope-o"></i></a> </p>
     </div>
   </div>
   <div class="row divider"></div>
