@@ -29,10 +29,12 @@ unpunished and good actors to go unrecognized. Transparency creates a level play
   </div>
 </div>
 
+<div  class="content" style="background: url('<?php bloginfo('template_directory'); ?>/img/deforestation.jpg');height: 100%;background-size:cover; background-position: center;"><img src=""></div>
 
 <div class="grey content" style="padding: 0px">
   <div class="wp2">
-    <div class="large-8 columns" style="padding: 75px 60px">
+
+    <div class="large-12 columns" style="padding: 75px 60px">
       <h2>The goal</h2>
       <p></p>
       <p>The goal of Map for Environment is to make the invisible visible. We are quite literally aiming to put
@@ -45,15 +47,12 @@ responding to disasters such as the Nepal earthquake and the tsunami in the Phil
 Environment follows this model to map the unmapped but we focus on the humanitarian disaster
 slowly unraveling in the world’s critical ecosystems.</p>
     </div>
-    <div class="large-4 columns" style="background: url('<?php bloginfo('template_directory'); ?>/img/deforestation.jpg');height: 500px;background-size:cover"><img src=""></div>
-  </div>
+    </div>
 </div>
-
+<div class="content" style="background: url('<?php bloginfo('template_directory'); ?>/img/mapping_palmmill.png');height: 100%;background-size:cover; background-position: center;"><img src=""></div>
 <div class="content" style="padding: 0px">
   <div class="wp2">
-
-    <div class="large-4 columns" style="background: url('<?php bloginfo('template_directory'); ?>/img/mapping_palmmill.png');height: 500px;background-size:cover"><img src=""></div>
-    <div class="large-8 columns" style="padding: 60px">
+    <div class="large-12 columns" style="padding: 60px">
       <h2>How it works</h2>
       <p></p>
       <p>Map for Environment uses OpenStreetMap tools - combined with satellite imagery and location data of
