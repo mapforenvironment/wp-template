@@ -55,11 +55,11 @@
   <a href="/news">News</a>
 </nav>
 
-    <div class="navbar">
+    <div class="navbar past-main">
       <div class="menu">
           <div class="logo"><a href="/"><img height=50 width=52 style="padding-right:5px;" src="<?php bloginfo('template_directory'); ?>/img/mapforenvironment.png"><span class="logo-text">Map for Environment</span></a></div>
 
-          <div id="showRight"><span id="nav-toggle" class="nav_slide_button" href="#"><span><p>MENU</p></span></span></div>
+          <div id="showRight"><span id="nav-toggle" class="nav_slide_button" href="#"><span><p class="menu-label">MENU</p></span></span></div>
 
       </div>
   </div>
