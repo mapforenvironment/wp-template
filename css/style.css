@@ -958,11 +958,18 @@ textarea {
 }
 input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]:focus,select:focus,textarea:focus { -webkit-box-shadow: 0 0 0 4px #57c6bd;-moz-box-shadow: 0 0 0 4px #57c6bd;box-shadow: 0 0 0 4px #57c6bd;;outline: 0;transition: all 0.1s ease-in-out;}
 
+.maphubs-map {
+  width: 1024px;
+  height: 550px;
+  max-width: 100%;
+}
+
 
 @media screen and (max-width:1300px) {
   figcaption p {
   font-size: 1.3em!important;
 }
+
 
 }
 
@@ -1147,6 +1154,12 @@ input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]
    display:none;
  }
 
+ .maphubs-map {
+   width: 640px;
+   height: 240px;
+   max-width: 100%;
+ }
+
 }
 
 @media screen and (max-width:480px) {
@@ -1155,6 +1168,12 @@ input:focus, input[type=text]:focus,input[type=email]:focus,input[type=location]
   }
   figcaption p {
     font-size: 1.0em !important;
+  }
+
+  .maphubs-map {
+    width: 480px;
+    height: 200px;
+    max-width: 100%;
   }
 }
 

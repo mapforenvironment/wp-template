@@ -14,12 +14,12 @@
 </div>
 <div class="content" style="padding-top: 0px; padding-bottom: 30px;">
   <div class="row wp2">
-    <iframe src="https://maphubs.com/map/embed/212/static" style="width: 1024px; height: 550px; max-width: 100%;" frameborder="0"></iframe>
+    <iframe class="maphubs-map" src="https://maphubs.com/map/embed/212/static" frameborder="0"></iframe>
 
     <p>
       From space, the earth’s great forests and rivers still seem intact and flowing. The Congo Basin rainforest straddles Africa extending across the continent, regulating the regional climate, providing food and livelihoods to millions, and refuge to thousands of species including forest elephants and chimpanzees.
     </p>
-    <iframe src="https://maphubs.com/map/embed/36/static" style="width: 1024px; height: 550px; max-width: 100%;" frameborder="0"></iframe>
+    <iframe class="maphubs-map" src="https://maphubs.com/map/embed/36/static" frameborder="0"></iframe>
 
     <p>
       Asia’s great rivers – the Mekong, Brahmaputra, the Yangtze, etc – meander from the head waters of the Himalayas before flowing down to the mouths of Vietnam Delta and the Bangladesh, providing water, food, and energy to hundreds of millions of people. And the vast plains of the Dakotas still remain some of most vast unpopulated regions of the United States.
