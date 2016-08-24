@@ -25,54 +25,58 @@ logging roads, industrial agriculture, and dams on the map.</p>
 </div>
 
 <div class="work">
-  <figure class="large-4 columns">
+  <figure class="large-3 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
 
     <figcaption>
       <h2>Logging Roads</h2>
-      <p>In partnership with Global Forest Watch, The award winning Logging Roads initiative
-      (<a href="http://loggingroads.org">loggingroads.org</a>) aims to build a complete and dynamic map of all the world’s logging roads,
-      particularly focused in the tropics. With the support of volunteers, Logging Roads has already mapped
-      more than 30,000 roads with over 12,000 user edits in the Congo Basin. This data supports forest
-      monitors identify violations by logging companies, encroachment into indigenous people’s territories,
-      and risks to wildlife conservation.</a></p>
+      <p>Help build a complete map of logging roads in the world's remaining rainforests</p>
     </figcaption>
   </figure>
-  <figure class="large-4 columns">
+  <figure class="large-3 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
     <figcaption>
       <h2>Industrial Agriculture</h2>
-      <p>Map for Environment aims to map all industrial agriculture operating in or near the tropics with a
-        specific focus on oil palm in Indonesia and the Congo Basin. Oil palm plantations, in particular,have
-        decimated rainforest in Sumatra and Borneo, creating conflicts with indigenous communities and
-        clearing habitat for the endanger orangutan and tiger populations. But despite their enormous impact,
-        very few plantations and their associated infrastructure such as mills have been mapped.</p>
+      <p>Map the impact of industrial agriculture on Congo Basin and Indonesian rainforests</p>
     </figcaption>
   </figure>
-  <figure class="large-4 columns">
+  <figure class="large-3 columns">
     <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
     <figcaption>
       <h2>Hydropower in Asia</h2>
-      <p>Mapping hydropower dam sites and at risk areas upstream helps us understand the potential impact of new dams.</p>
+      <p>Mapping hydropower existing and planned dams on Asia's great rivers</p>
     </figcaption>
   </figure>
-
+  <figure class="large-3 columns">
+    <img src="<?php bloginfo('template_directory'); ?>/img/fracking.png" >
+    <figcaption>
+      <h2>Fracking</h2>
+      <p>Mapping the boom of hydraulic fracturing gas exploration sites in the U.S.</p>
+    </figcaption>
+  </figure>
 </div>
 
 <div class="dark" >
   <div class="row wp1">
     <h1><?php the_field('second_main'); ?></h1>
     <p class="headline"><?php the_field('second_p'); ?></p>
-    <div class="large-4 columns">
+    <div class="large-3 columns">
       <a href="https://loggingroads.org"><button class="animated fadeInDown">Map Logging Roads</button></a>
     </div>
-    <div class="large-4 columns">
-      <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Industrial Agriculture</button></a>
+    <div class="large-3 columns">
+      <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Agriculture</button></a>
     </div>
-    <div class="large-4 columns">
+    <div class="large-3 columns">
       <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Hydropower</button></a>
     </div>
+    <div class="large-3 columns">
+      <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Fracking</button></a>
     </div>
+
+  </div>
+  <div class="row wp1" style="padding-top: 15px;">
+    <h1>How can I help?</h1>
+    <p>Host a mapping party, tell us about other areas to map, or become a partner.</p>
   </div>
 </div>
 
