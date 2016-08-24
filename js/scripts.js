@@ -6,6 +6,10 @@ $(document).ready(function(){
     $("#advanced").slideToggle(500);
   });
 
+  $('.beacon-open').click(function() {
+    HS.beacon.open();
+  });
+
 });
 
 

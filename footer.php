@@ -18,6 +18,7 @@
        <h3>Organization</h3>
         <p><a href="/">Home</a></p>
         <a href="/about">About</a>
+        <a href="/get-started">Get Started</a>
         <p><a href="https://tasks.mapforenvironment.org">Tasks</a></p>
         <p><a href="/news">News</a></p>
     </div>

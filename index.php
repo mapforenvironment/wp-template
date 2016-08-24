@@ -26,33 +26,42 @@ logging roads, industrial agriculture, and dams on the map.</p>
 
 <div class="work">
   <figure class="large-3 columns">
+    <a href="/logging">
     <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
 
     <figcaption>
       <h2>Logging Roads</h2>
       <p>Help build a complete map of logging roads in the world's remaining rainforests</p>
     </figcaption>
+
+    </a>
   </figure>
   <figure class="large-3 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
-    <figcaption>
-      <h2>Industrial Agriculture</h2>
-      <p>Map the impact of industrial agriculture on Congo Basin and Indonesian rainforests</p>
-    </figcaption>
+    <a href="/agriculture">
+      <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
+      <figcaption>
+        <h2>Industrial Agriculture</h2>
+        <p>Map the impact of industrial agriculture on Congo Basin and Indonesian rainforests</p>
+      </figcaption>
+    </a>
   </figure>
   <figure class="large-3 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
-    <figcaption>
-      <h2>Hydropower in Asia</h2>
-      <p>Mapping hydropower existing and planned dams on Asia's great rivers</p>
-    </figcaption>
+    <a href="/hydropower">
+      <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
+      <figcaption>
+        <h2>Hydropower in Asia</h2>
+        <p>Mapping hydropower existing and planned dams on Asia's great rivers</p>
+      </figcaption>
+    </a>
   </figure>
   <figure class="large-3 columns">
-    <img src="<?php bloginfo('template_directory'); ?>/img/fracking.png" >
-    <figcaption>
-      <h2>Fracking</h2>
-      <p>Mapping the boom of hydraulic fracturing gas exploration sites in the U.S.</p>
-    </figcaption>
+    <a href="/fracking">
+      <img src="<?php bloginfo('template_directory'); ?>/img/fracking.png" >
+      <figcaption>
+        <h2>Fracking</h2>
+        <p>Mapping the boom of hydraulic fracturing gas exploration sites in the U.S.</p>
+      </figcaption>
+    </a>
   </figure>
 </div>
 
@@ -72,11 +81,11 @@ logging roads, industrial agriculture, and dams on the map.</p>
     <div class="large-3 columns">
       <a href="https://tasks.mapforenvironment.org"><button class="animated fadeInDown">Map Fracking</button></a>
     </div>
-
+    <p>See our <a href="/get-started">Get Started</a> page for more information</p>
   </div>
   <div class="row wp1" style="padding-top: 15px;">
     <h1>How can I help?</h1>
-    <p>Host a mapping party, tell us about other areas to map, or become a partner.</p>
+    <p>Host a mapping party, tell us about other areas to map, or become a partner. Questions? <a class="beacon-open">Send us a message.</a></p>
   </div>
 </div>
 

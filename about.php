@@ -75,7 +75,7 @@
   </div>
 </div>
 
-<div class="content" style="padding-top: 0px; padding-bottom: 0px;">
+<div class="content" style="padding-top: 0px; padding-bottom: 5px;">
   <div class="row wp2">
     <h2>Initiatives</h2>
   </div>
@@ -83,32 +83,40 @@
 <div class="content" style="padding-top: 0px; padding-bottom: 0px;">
   <div class="row">
     <figure class="large-3 columns">
-      <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
-      <figcaption>
-        <h2 style="font-size 1.4em !important;">Logging Roads</h2>
-        <p>Help build a complete map of logging roads in the world's remaining rainforests</p>
-      </figcaption>
+      <a href="/logging">
+        <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
+        <figcaption>
+          <h2 style="font-size: 1.4em !important;">Logging Roads</h2>
+          <p>Help build a complete map of logging roads in the world's remaining rainforests</p>
+        </figcaption>
+      </a>
     </figure>
     <figure class="large-3 columns">
-      <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
-      <figcaption>
-        <h2 style="font-size 1.4em !important;">Industrial Agriculture</h2>
-        <p>Map the impact of industrial agriculture on Congo Basin and Indonesian rainforests</p>
-      </figcaption>
+      <a href="/agriculture">
+        <img src="<?php bloginfo('template_directory'); ?>/img/industrialagriculture.png" >
+        <figcaption>
+          <h2 style="font-size: 1.4em !important;">Industrial Agriculture</h2>
+          <p>Map the impact of industrial agriculture on Congo Basin and Indonesian rainforests</p>
+        </figcaption>
+      </a>
     </figure>
     <figure class="large-3 columns">
-      <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
-      <figcaption>
-        <h2 style="font-size 1.4em !important;">Hydropower in Asia</h2>
-        <p>Mapping hydropower existing and planned dams on Asia's great rivers</p>
-      </figcaption>
+      <a href="/hydropower">
+        <img src="<?php bloginfo('template_directory'); ?>/img/asiadams.png" >
+        <figcaption>
+          <h2 style="font-size: 1.4em !important;">Hydropower in Asia</h2>
+          <p>Mapping hydropower existing and planned dams on Asia's great rivers</p>
+        </figcaption>
+      </a>
     </figure>
     <figure class="large-3 columns">
-      <img src="<?php bloginfo('template_directory'); ?>/img/fracking.png" >
-      <figcaption>
-        <h2 style="font-size 1.4em !important;">Fracking</h2>
-        <p>Mapping the boom of hydraulic fracturing gas exploration sites in the U.S.</p>
-      </figcaption>
+      <a href="/fracking">
+        <img src="<?php bloginfo('template_directory'); ?>/img/fracking.png" >
+        <figcaption>
+          <h2 style="font-size: 1.4em !important;">Fracking</h2>
+          <p>Mapping the boom of hydraulic fracturing gas exploration sites in the U.S.</p>
+        </figcaption>
+      </a>
     </figure>
   </div>
 </div>
