@@ -22,7 +22,7 @@
       <img src="<?php bloginfo('template_directory'); ?>/img/fracking/well_pads.jpg" style="max-width: 100%; height: auto; margin: auto; text-align:center;" >
       <p style="font-size: 14px !important;">Drill pads in North Dakota</p>
     </div>
-    <p>We plan to put them all on the map. <a href="https://tasks.mapforenvironment.org/">Click here</a> to get help us!</p>
+    <p>We plan to put them all on the map. <a href="https://tasks.mapforenvironment.org/">Click here</a> to help us!</p>
   </div>
 </div>
 

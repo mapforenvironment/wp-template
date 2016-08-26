@@ -50,7 +50,7 @@
 <div class="content" style="padding-top: 0px; padding-bottom: 0px;">
   <div class="row wp2">
     <h3 style="padding-bottom: 0px;">OUR AIM</h3>
-    <p>Our immediate goal is to build detailed maps of high priority agricultural plantations with a specific focus on Indonesia and the Congo Basin. By combining data such as plantation boundaries, forest loss alerts, and satellite imagery, we have identified active agriculture plantations in the Democratic Republic of the Congo (see here). None of the plantations have been mapped in OpenStreetMap nor mapped by the government. </p>
+    <p>Our immediate goal is to build detailed maps of high priority agricultural plantations with a specific focus on Indonesia and the Congo Basin. By combining data such as plantation boundaries, forest loss alerts, and satellite imagery, we have identified active agriculture plantations in the Democratic Republic of the Congo (<a href="http://maindombe.maphubs.com/story/9/Industrial-agriculture-rapidly-expands-across-the-Democratic-Republic-of-the-Congo">see here</a>). None of the plantations have been mapped in OpenStreetMap nor mapped by the government. </p>
   </div>
 </div>
 

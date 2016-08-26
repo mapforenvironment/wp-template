@@ -69,9 +69,9 @@
     <h3 style="padding: 0px;">Help map!</h3>
     <p>Anyone can help map by creating an OpenStreetMap account, learn the basics, and taking on a mapping task. It takes no time at all to begin actively mapping and making an important contribution to environmental conservation efforts.</p>
     <h3 style="padding: 0px;">Host a mapping party!</h3>
-    <p>Do you have some space to accommodate some eager mappers and an internet connection? They you could be a mapping party host! Mapping parties are a great way to accomplish a mapping task and meet fellow mappers. Providing some beers and pizza goes a long way too. Please contact us, if you are interested in hosting a party.</p>
+    <p>Do you have some space to accommodate some eager mappers and an internet connection? They you could be a mapping party host! Mapping parties are a great way to accomplish a mapping task and meet fellow mappers. Providing some beers and pizza goes a long way too. Please <a class="beacon-open">contact us</a>, if you are interested in hosting a party.</p>
     <h3 style="padding: 0px;">Become a partner!</h3>
-    <p>Map for Environment is completely run by volunteers. If you would like to provide financial or technical support to the project, please contact us here. Funding helps us improve the tools, sponsor mapping parties in places like DRC and Indonesia and helps us obtain proprietary high resolution imagery, which is critical to mapping. If you would like to sponsor Map for Environment, please contact us.</p>
+    <p>Map for Environment is completely run by volunteers. If you would like to provide financial or technical support to the project, please <a class="beacon-open">contact us here</a>. Funding helps us improve the tools, sponsor mapping parties in places like DRC and Indonesia and helps us obtain proprietary high resolution imagery, which is critical to mapping. If you would like to sponsor Map for Environment, please <a class="beacon-open">contact us.</a></p>
   </div>
 </div>
 
