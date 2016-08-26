@@ -83,7 +83,7 @@
 <div class="content" style="padding-top: 0px; padding-bottom: 0px;">
   <div class="row">
     <figure class="large-3 columns">
-      <a href="/logging">
+      <a href="http://loggingroads.org">
         <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
         <figcaption>
           <h2 style="font-size: 1.4em !important;">Logging Roads</h2>

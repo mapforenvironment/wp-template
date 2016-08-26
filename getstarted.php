@@ -18,7 +18,7 @@
     <p> Here are some some tutorials to help you get started:</p>
     <ul>
       <li>Logging Roads Tutorial: <a href="http://loggingroads.org/tutorial/" target="_blank">http://loggingroads.org/tutorial/</a></li>
-      <li>Learn OSM Beginner Guide: <a href="http://learnosm.org/en/beginner/" target="_blank">http://learnosm.org/en/beginner/</a></li>
+      <li>Learn OSM Beginner Guide: <a href="http://learnosm.org/en/beginner/start-osm/" target="_blank">http://learnosm.org/en/beginner/start-osm/</a></li>
       <li>MapGive - Learn to Map: <a href="http://mapgive.state.gov/learn-to-map/" target="_blank">http://mapgive.state.gov/learn-to-map/</a></li>
       <li>Missing Maps - How to Contribute: <a href="http://www.missingmaps.org/contribute/#beginner" target="_blank">http://www.missingmaps.org/contribute/#beginner</a></li>
     </ul>

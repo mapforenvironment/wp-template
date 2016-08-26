@@ -20,13 +20,13 @@
   <div class="row text-center wp2">
     <h1>Initiatives</h1>
     <p class="headline">Our goal is to make the invisible visible. We are quite literally aiming to put
-logging roads, industrial agriculture, and dams on the map.</p>
+logging roads, industrial agriculture, dams, and fracking on the map.</p>
   </div>
 </div>
 
 <div class="work">
   <figure class="large-3 columns">
-    <a href="/logging">
+    <a href="http://loggingroads.org">
     <img src="<?php bloginfo('template_directory'); ?>/img/loggingroads.png" >
 
     <figcaption>
