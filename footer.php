@@ -8,6 +8,7 @@
       <a href="https://maphubs.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/MapHubsLogo_A_HiRes.png"></a>
       <a href="http://www.globalforestwatch.org/" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/global.png"></a>
       <a href="http://mapbox.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/mapbox-satellite-logo.png"></a>
+      <a href="http://syncadd.com" target="_blank"><img src="<?php bloginfo('template_directory'); ?>/img/syncadd.png"></a>
     </div>
   </div>
 </div>
