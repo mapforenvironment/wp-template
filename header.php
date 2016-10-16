@@ -58,7 +58,7 @@
 
     <div class="navbar past-main">
       <div class="menu">
-          <div class="logo"><a href="/"><img height=50 width=52 style="padding-right:5px;" src="<?php bloginfo('template_directory'); ?>/img/mapforenvironment.png"><span class="logo-text">Map for Environment</span></a></div>
+          <div class="logo"><a href="https://mapforenvironment.org"><img height=65 width=382 style="padding-right:5px;" src="<?php bloginfo('template_directory'); ?>/img/new_m4e_logo.png"></a></div>
 
           <div id="showRight"><span id="nav-toggle" class="nav_slide_button" href="#"><span><p class="menu-label">MENU</p></span></span></div>
 
